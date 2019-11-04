@@ -25,4 +25,4 @@ cout<<"exact value = "<< exp((double)x); //display exact value
 return 0; // return 0 to exit
 } // end of main function
 
-
+/*Mathematices of embedded system*/
