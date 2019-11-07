@@ -26,3 +26,4 @@ return 0; // return 0 to exit
 } // end of main function
 
 /*Mathematices of embedded system*/
+//code for taylors series
