@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main() // main function
 {
     int n,i,k,j,p; // declaration of variables
     float a[10][10],l[10][10]={0},u[10][10]={0},sum,b[10],y[10]={0},x[10]={0}; // matrices are declared
