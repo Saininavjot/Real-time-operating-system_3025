@@ -2,7 +2,7 @@
  * taylor_series.cpp
  *
  *  Created on: Sep 23, 2019
- *      Author: User
+ *      Author: Navjot
  */
 #include <iostream> //header file to include input & output stream
 #include <math.h> //math header file from library is included
