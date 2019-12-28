@@ -7,7 +7,7 @@
 #include <iostream> //header file to include input & output stream
 #include <math.h> //math header file from library is included
 using namespace std; //using standard library namespace
-int main() // main function
+int main() 
 {
 float x = 10, sum = 1, term = 1, temp = 0; //float type variables are declared and initialized
 int i = 0; // int type i is declared and initialized to 0
