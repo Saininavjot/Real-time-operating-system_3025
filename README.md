@@ -1,3 +1,3 @@
-# taylor-series
-CPP program to calculate sum of taylors series
-File is uploaded
+Real time OPerating System
+FreeRTOS practiced on LPC 1769
+
